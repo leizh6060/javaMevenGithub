@@ -21,6 +21,16 @@
 			<version>2.9.2</version>
 		</dependency>
 		<!-- end::joda[] -->
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>1.7.36</version>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-simple</artifactId>
+			<version>1.7.36</version>
+		</dependency>
 		<!-- tag::junit[] -->
 		<dependency>
 			<groupId>junit</groupId>
